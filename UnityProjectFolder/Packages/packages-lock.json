@@ -1,12 +1,5 @@
 {
   "dependencies": {
-    "com.heathen.steamworkscomplete": {
-      "version": "https://github.com/heathen-engineering/ExampleTeamRepo.git?path=/ThirdParty/com.heathen.steamworkscomplete",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "96b2e9689f858f1421e9f9938a02b7505c94c2e1"
-    },
     "com.heathen.systemcore": {
       "version": "https://github.com/heathen-engineering/SystemCore.git?path=/com.heathen.systemcore",
       "depth": 0,

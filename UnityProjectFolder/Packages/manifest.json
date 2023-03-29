@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.heathen.steamworkscomplete": "https://github.com/heathen-engineering/ExampleTeamRepo.git?path=/ThirdParty/com.heathen.steamworkscomplete",
     "com.heathen.systemcore": "https://github.com/heathen-engineering/SystemCore.git?path=/com.heathen.systemcore",
     "com.rlabrecque.steamworks.net": "https://github.com/rlabrecque/Steamworks.NET.git?path=/com.rlabrecque.steamworks.net",
     "com.unity.collab-proxy": "2.0.0",
