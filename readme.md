@@ -1,8 +1,8 @@
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%20LTS%2B-blueviolet?logo=unity)](https://unity3d.com/get-unity/download)
 [![Unity Pipeline Support (Built-In)](https://img.shields.io/badge/BiRP_✅-646464?logo=unity)](https://unity3d.com/get-unity/download)
-[![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_✅-646464?logo=unity)](https://unity3d.com/get-unity/download)
-[![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_✅-646464?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (URP)](https://img.shields.io/badge/URP_❌-646464?logo=unity)](https://unity3d.com/get-unity/download)
+[![Unity Pipeline Support (HDRP)](https://img.shields.io/badge/HDRP_❌-646464?logo=unity)](https://unity3d.com/get-unity/download)
 
 [![Discord](https://img.shields.io/badge/Discord--1877F2?style=social&logo=discord)](https://discord.gg/6X3xrRc)
 [![GitHub followers](https://img.shields.io/github/followers/heathen-engineering?style=social)](https://github.com/heathen-engineering?tab=followers)
